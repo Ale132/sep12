@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=HorarioMundial
+comment1.params=
+comment1.target=HorarioMundial()
+comment2.params=
+comment2.target=void\ agregarPais()
+comment3.params=pais
+comment3.target=void\ agregarPais(Pais)
+comment4.params=nombre\ diferenciaHoraria
+comment4.target=void\ agregarPais(java.lang.String,\ int)
+comment5.params=
+comment5.target=void\ calcularHorariomundial()
+comment6.params=
+comment6.target=void\ mostrarDiferenciahoraria()
+comment7.params=
+comment7.target=void\ mostrarHorapaises()
+numComments=8

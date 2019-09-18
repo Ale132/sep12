@@ -1,19 +1,26 @@
-Project "house"
-Authors: Michael Kšlling and David J. Barnes
+Project: clock-display
+Authors: David Barnes and Michael KÃ¶lling
 
 This project is part of the material for the book
 
    Objects First with Java - A Practical Introduction using BlueJ
    Sixth edition
-   David J. Barnes and Michael Kšlling
+   David J. Barnes and Michael KÃ¶lling
    Pearson Education, 2016
 
-It is discussed in chapter 1.
-    
-This is a very simple project to demonstrate some characteristics of
-objects.
+It is discussed in chapter 3.
 
-This project is often used after studying the "shapes" project. It
-adds a class to those ones in "shapes". That class (named "Picture")
-uses the shapes to draw a picture. It can be used to experiment with 
-modifying source code.
+To use this project, create an instance of class ClockDisplay. Then inspect this 
+instance and leave the object inspector window open. With the inspector window open, 
+call the object's methods, such as timeTick and setTime. Watch the 
+"displayString" in the inspector.
+
+The displayString field simulates the actual clock display device. Were this 
+program running in a real clock, it would change the real, physical display 
+hardware instead of this string. The timeTick method would be triggered once 
+every minute by some timer hardware.
+
+Everything else could be pretty much the same.
+
+
+Note: This project does not implement adequate handling of errors.

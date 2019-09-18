@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Pais
+comment1.params=nombres\ diferenciaHora
+comment1.target=Pais(java.lang.String,\ int)
+comment2.params=
+comment2.target=Pais()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=nom
+comment4.target=void\ setNombre(java.lang.String)
+comment5.params=
+comment5.target=int\ getHora()
+comment6.params=
+comment6.target=int\ getMinutos()
+comment7.params=horas\ minutos
+comment7.target=void\ setHora(int,\ int)
+comment8.params=
+comment8.target=int\ getDiferenciaHoraria()
+comment9.params=diferenciaHor
+comment9.target=void\ setDiferenciaHoraria(int)
+numComments=10
